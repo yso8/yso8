@@ -109,8 +109,8 @@
 
 <br>
 <p align="left">
-<img alt="Mail" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=mail&logoColor=black" href="mailto:baptisteguillaumepro@gmail.com" />
-<img alt="Linkedin" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linkedin&logoColor=blue" />
+<img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="mailto:baptisteguillaumepro@gmail.com" />
+<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="www.linkedin.com/in/baptiste-dev"/>
 </p>
 
 
