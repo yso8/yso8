@@ -123,7 +123,7 @@
 
 <br>
 <p align="left">
-  ![GHstats](https://github-readme-stats.vercel.app/api?username=yso8&show_icons=true)
+  ![Ahmosys's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmosys&show_icons=true&theme=graywhite)
 </p>
 
 
