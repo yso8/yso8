@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm .yso 👨‍🎓</h1>
+<h1 align="center">Hi, I'm .yso 🙌</h1>
 <h3 align="center">I'm a full stack developer in study wishing to become a DevOps engineer</h3>
 <br>
 
@@ -7,17 +7,15 @@
 </p>
 
 <br>
-<p align="middle">
-<a href='https://svgshare.com/s/gpq'><img src='https://svgshare.com/i/gpq.svg' width="500" /></a>
+<p align="middle">  
+<a href='https://svgshare.com/s/grN' ><img src='https://svgshare.com/i/grN.svg' width="500"/></a>
 </p>
 <br>
 
 <h1 align="left">❦ • competencies</h1>
 
 <h3 align="left">.Language</h3>
-
-<br><p align="left"> 
-
+<p align="left"> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
   <img src="https://i.ibb.co/5GZg2p0/c-sharp.png" alt="csharp" width="40" height="40"/> 
 </a>
@@ -48,7 +46,6 @@
 </p>
 
 <h3 align="left">.Database</h3>
-<br>
 <p align="left">
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
   <img src="https://i.ibb.co/hfGZ7nW/postgresql-100px.png" alt="postgresql" width="40" height="40"/> 
@@ -68,7 +65,6 @@
 </p>
 
 <h3 align="left">.Framework</h3>
-<br>
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
   <img src="https://i.ibb.co/LhjQMX0/bootstrap-64px.png" alt="bootstrap" width="40" height="40"/> 
@@ -84,7 +80,6 @@
 </p>
 
 <h3 align="left">.Indu</h3>
-<br>
 <p align="left">
 <a href="https://visualstudio.microsoft.com/fr/" target="_blank" rel="noreferrer"> 
   <img src="https://i.ibb.co/RSJLvmT/Visual-Studio-100px.png" alt="vs" width="40" height="40"/> 
@@ -113,7 +108,7 @@
 
 <h1 align="left">✦ • connect with me</h1>
 
-<br>
+<h3 align="left">.Contact</h3>
 <p align="left">
 <a href="mailto:baptisteguillaumepro@gmail.com" target="_blank" rel="noreferrer">
   <img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
