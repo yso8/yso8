@@ -105,6 +105,8 @@
 </a>
 </p>
 
+
+
 <h1 align="left">✦ • connect with me</h1>
 
 <br>
@@ -116,3 +118,12 @@
   <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
+
+<h1 align="left">￥ • statistics</h1>
+
+<br>
+<p align="left">
+  ![GHstats](https://github-readme-stats.vercel.app/api?username=yso8&show_icons=true)
+</p>
+
+
