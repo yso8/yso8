@@ -105,4 +105,4 @@
 </a>
 </p>
 
-<h1 align="left">♨ • connect with me</h1>
+<h1 align="left">✦ • connect with me</h1>
