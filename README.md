@@ -106,3 +106,13 @@
 </p>
 
 <h1 align="left">✦ • connect with me</h1>
+
+<br>
+<p align="left">
+  <a href="mailto:baptisteguillaumepro@gmail.com" target="_blank" rel="noreferrer"> 
+  <img src="https://i.ibb.co/w6LfBbK/circled-envelope-60px.png" alt="mail" width="40" height="40"/> 
+  </a>
+</p>
+
+
+
