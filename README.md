@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=yso8&label=.Views&color=736751&style=flat" alt="yso8" /> 
 </p>
 
-<h1 align="left">⚒ • competencies</h1>
+<h1 align="left">❦ • competencies</h1>
 
 <h3 align="left">.Language</h3>
 <br>
