@@ -104,3 +104,5 @@
 <img src="https://i.ibb.co/kgwHJfP/gimp-100px.png" alt="gimp" width="40" height="40"/> 
 </a>
 </p>
+
+<h1 align="left">♨ • connect with me</h1>
