@@ -6,11 +6,17 @@
   <img src="https://komarev.com/ghpvc/?username=yso8&label=.Views&color=736751&style=flat" alt="yso8" /> 
 </p>
 
+<br>
+<p align="middle">
+<a href='https://svgshare.com/s/gpq'><img src='https://svgshare.com/i/gpq.svg' width="500" /></a>
+</p>
+<br>
+
 <h1 align="left">❦ • competencies</h1>
 
 <h3 align="left">.Language</h3>
-<br>
-<p align="left"> 
+
+<br><p align="left"> 
 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
   <img src="https://i.ibb.co/5GZg2p0/c-sharp.png" alt="csharp" width="40" height="40"/> 
@@ -105,8 +111,6 @@
 </a>
 </p>
 
-
-
 <h1 align="left">✦ • connect with me</h1>
 
 <br>
@@ -118,12 +122,3 @@
   <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
-
-<h1 align="left">￥ • statistics</h1>
-
-<br>
-<p align="left">
-  ![Ahmosys's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmosys&show_icons=true&theme=graywhite)
-</p>
-
-
