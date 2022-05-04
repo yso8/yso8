@@ -109,9 +109,8 @@
 
 <br>
 <p align="left">
-  <a href="mailto:baptisteguillaumepro@gmail.com" target="_blank" rel="noreferrer"> 
-  <img src="https://i.ibb.co/w6LfBbK/circled-envelope-60px.png" alt="mail" width="40" height="40"/> 
-  </a>
+  [![mail](https://img.shields.io/badge/mail-000?style=for-the-badge&logo=ko-fi&logoColor=white)](mailto:baptisteguillaumepro@gmail.com)
+  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/baptiste-dev)
 </p>
 
 
