@@ -79,7 +79,7 @@
 </a>
 </p>
 
-<h3 align="left">.Indu</h3>
+<h3 align="left">.Industrial</h3>
 <p align="left">
 <a href="https://visualstudio.microsoft.com/fr/" target="_blank" rel="noreferrer"> 
   <img src="https://i.ibb.co/RSJLvmT/Visual-Studio-100px.png" alt="vs" width="40" height="40"/> 
