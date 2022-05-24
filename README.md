@@ -8,7 +8,7 @@
 
 <br>
 <p align="middle">  
-<a href='https://svgshare.com/s/grN' ><img src='https://svgshare.com/i/grN.svg' width="500"/></a>
+<a href='https://svgshare.com/s/grN' ><img src='https://svgshare.com/f/hhs' width="500"/></a>
 </p>
 <br>
 
