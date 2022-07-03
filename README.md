@@ -6,12 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=yso8&label=.Views&color=736751&style=flat" alt="yso8" /> 
 </p>
 
-<br>
-<p align="middle">  
-<iframe src="https://giphy.com/embed/kkUEbG1o0IFwE2qh6x" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/html-lyricvideo-lovelyparadox-kkUEbG1o0IFwE2qh6x">via GIPHY</a></p>
-</p>
-<br>
-
 <h1 align="left">❦ • competencies</h1>
 
 <h3 align="left">.Language</h3>
