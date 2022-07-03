@@ -8,7 +8,7 @@
 
 <br>
 <p align="middle">  
-<a href="https://giphy.com/embed/kkUEbG1o0IFwE2qh6x"><img src="https://giphy.com/gifs/html-lyricvideo-lovelyparadox-kkUEbG1o0IFwE2qh6x" alt="MPtA.gif" border="0" /></a>
+<iframe src="https://giphy.com/embed/kkUEbG1o0IFwE2qh6x" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/html-lyricvideo-lovelyparadox-kkUEbG1o0IFwE2qh6x">via GIPHY</a></p>
 </p>
 <br>
 
