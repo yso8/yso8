@@ -3,7 +3,7 @@
 </div>
 
 <div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=yso8&label=.Views&color=736751&style=flat" alt="yso8" /> 
+  <img src="https://komarev.com/ghpvc/?username=yso8&label=.Views&color=736751&style=for-the-badge" alt="yso8" /> 
 </div>
 
 <h3 align="center">I'm a french full stack developer in study wishing to become a <span>DevOps Engineer</span></h3>
@@ -70,6 +70,8 @@
 <br>
 
 <h2 align="left">• check my friends' profiles</h2>
+
+<br>
 
 <div align="center">
   <table>
