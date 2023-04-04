@@ -24,8 +24,6 @@
   </a>
 </div>
 
-<hr>
-
 <br>
 
 <h2 align="left">• i'm currently working with</h2>
@@ -59,10 +57,6 @@
 
 <br>
 
-<hr>
-
-<br>
-
 <h2 align="left">• my profile</h2>
 
 <div align="center">
@@ -70,10 +64,6 @@
   ![Yso8's GitHub stats](https://github-readme-stats.vercel.app/api?username=yso8&count_private=true&hide=prs,issues&show_icons=true)
 
 </div>
-
-<br>
-
-<hr>
 
 <br>
 
