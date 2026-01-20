@@ -9,6 +9,8 @@
     BAPTISTE .YSO
   </h1>
 
+  <br>
+
   <p style="font-family: sans-serif; opacity: 0.7; letter-spacing: 1px;">
     LEAD DEVELOPER &nbsp;|&nbsp; .NET SPECIALIST &nbsp;|&nbsp; DEVOPS ARCHITECT
   </p>
@@ -34,7 +36,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 <!-- SECTION 1: THE DIGITAL ARSENAL -->
   <h2 style="font-size: 18px; font-weight: bold; text-align: center; opacity: 0.8; margin-top: 30px;">DIGITAL ARCHITECTURE & STACK</h2>
