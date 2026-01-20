@@ -1,10 +1,10 @@
 <div align="center">
-  
+
   <!-- HEADER: SIDE-BY-SIDE LAYOUT -->
   <table style="border: none; border-collapse: collapse; width: 100%;">
     <tr style="border: none;">
       <td width="30%" align="center" style="border: none; vertical-align: middle;">
-        <img src="https://i.imgur.com/uJvRAHv.gif" width="100%" style="border-radius: 10px; opacity: 0.8;">
+        <img src="https://i.imgur.com/uJvRAHv.gif" width="100%" style="border-radius: 10px; opacity: 0.8;" alt="Digital Animation">
       </td>
       <td width="70%" align="center" style="border: none; vertical-align: middle;">
         <h1 style="font-family: 'Courier New', monospace; letter-spacing: 4px; text-transform: uppercase; margin-bottom: 5px;">
@@ -58,14 +58,14 @@
         <b>ELECTRONICS & SOLDERING</b> &nbsp;•&nbsp; <b>HOME AUTOMATION</b>
       </td>
       <td width="40%" align="center" style="border: none; vertical-align: middle;">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXIzNnMxcGhjMnk0NmZtZHZjMzVmZDBodjJxajk2MjRxM2V4b2J6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKxTb0wmhq7W0Te/giphy.gif" width="90%" style="border-radius: 8px; opacity: 0.75;" alt="3D Printing">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXIzNnMxcGhjMnk0NmZtZHZjMzVmZDBodjJxajk2MjRxM2V4b2J6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKxTb0wmhq7W0Te/giphy.gif" width="90%" style="border-radius: 8px; opacity: 0.75;" alt="3D Printing Timelapse">
       </td>
     </tr>
   </table>
 
   <!-- FOOTER -->
   <br>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <hr style="opacity: 0.2; width: 40%; margin: auto;">
   <br>
   <p style="font-family: serif; font-style: italic; font-size: 18px; letter-spacing: 1px; margin-bottom: 0;">
     " Créer, c'est vivre deux fois. "
