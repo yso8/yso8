@@ -65,7 +65,7 @@
 
   <!-- FOOTER -->
   <br>
-  <hr style="opacity: 0.2; width: 40%; margin: auto;">
+  <hr style="opacity: 0.1; width: 40%; margin: auto;">
   <br>
   <p style="font-family: serif; font-style: italic; font-size: 18px; letter-spacing: 1px; margin-bottom: 0;">
     " Créer, c'est vivre deux fois. "
