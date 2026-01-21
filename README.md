@@ -24,7 +24,7 @@
         <!-- NAVIGATION LINKS -->
         <code><a href="mailto:baptisteguillaumepro@gmail.com" style="text-decoration: none; color: inherit;">EMAIL</a></code> &nbsp;—&nbsp; 
         <code><a href="https://linkedin.com/in/baptiste-dev" style="text-decoration: none; color: inherit;">LINKEDIN</a></code> &nbsp;—&nbsp; 
-        <code><a href="https://ys8o.fr" style="text-decoration: none; color: inherit;">PORTFOLIO</a></code>
+        <code><a href="https://yso8.github.io" style="text-decoration: none; color: inherit;">PORTFOLIO</a></code>
       </td>
     </tr>
   </table>
