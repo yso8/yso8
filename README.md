@@ -1,162 +1,96 @@
 <div align="center">
-
 <table>
 <tr>
 <td width="30%" align="center" valign="middle">
-
-<img src="https://i.imgur.com/uJvRAHv.gif" width="100%" alt="Digital animation">
-
+<img src="https://i.imgur.com/uJvRAHv.gif" width="240" alt="Abstract digital animation" />
 </td>
-
 <td width="70%" align="center" valign="middle">
-
-# BAPTISTE / .YSO
-
-### SOFTWARE ENGINEER  
-`.NET` · `CI/CD` · `DEVOPS`
-
-<sub>Montpellier, France</sub>
-
-<br>
-
-Software engineer building and maintaining  
-**business-critical applications, integrations and developer tooling.**
-
-Focused on the space between  
-**software development, automation and operations.**
-
-<br>
-
-[`LINKEDIN`](https://www.linkedin.com/in/bgu-is-a-dev/)
-&nbsp; — &nbsp;
-[`EMAIL`](mailto:baptisteguillaumepro@gmail.com)
-
+<h1>BAPTISTE .YSO</h1>
+<p><strong>SOFTWARE ENGINEER</strong><br /><code>.NET · CI/CD · DEVOPS</code></p>
+<p><sub>Montpellier, France</sub></p>
+<p>Software engineer working on <strong>business-critical applications, system integrations and developer tooling.</strong></p>
+<p>I enjoy working at the intersection of software development, automation and operations.</p>
+<p><a href="https://www.linkedin.com/in/bgu-is-a-dev/">LinkedIn</a> · <a href="mailto:baptisteguillaumepro@gmail.com">Email</a> · <a href="https://github.com/yso8">GitHub</a></p>
 </td>
 </tr>
 </table>
-
+<p><sub>ENGINEERING NOTES / 2026</sub></p>
 </div>
 
-<br>
-
 ---
-
-<div align="center">
 
 ## `01. ENGINEERING`
 
-</div>
+At **ALX Technologies**, I develop and modernize production business applications, connect external systems and take changes through to delivery. I'm also the team's point of reference for **CI/CD and development practices**, with work spanning the TFS-to-Git / Gitea migration and build and deployment automation.
 
-I currently work as a **Software Engineer at ALX Technologies**, across the full software development lifecycle — from implementation and system integration to production delivery.
+I like understanding the whole system — not only the code running inside it.
 
-My work mainly revolves around:
-
-`C#` · `.NET` · `WPF` · `Blazor` · `SQL Server` · `REST APIs`
-
-with a particular focus on **CI/CD, development practices and software modernization**.
-
-I am the team's point of reference for CI/CD-related topics and have worked on initiatives including:
-
-- migration from **TFS 2018 to Git / Gitea**
-- Windows-based CI pipelines and runners
-- automated builds and deployments
-- E2E testing with Playwright
-- third-party system integrations
-- authentication and security
-- electronic invoicing and regulatory compliance
-- progressive modernization of existing software
-
-<br>
-
-<div align="center">
-
-### `BUILD → TEST → INTEGRATE → DEPLOY → IMPROVE`
-
-</div>
+<p align="center"><code>BUILD → TEST → INTEGRATE → DEPLOY → IMPROVE</code></p>
 
 ---
-
-<div align="center">
 
 ## `02. STACK`
 
-</div>
-
-| **SOFTWARE** | **DELIVERY & INFRA** | **WEB & PRODUCT** |
-| :---: | :---: | :---: |
+| SOFTWARE ENGINEERING | DEVOPS & DELIVERY | WEB & PRODUCT |
+| :--- | :--- | :--- |
 | C# / .NET | Git / Gitea | TypeScript |
-| WPF / Blazor | CI/CD | Next.js / React |
+| WPF / Blazor | CI/CD / Gitea Actions | Next.js / React |
 | REST APIs | Docker | AdonisJS |
-| SQL Server | Linux | PostgreSQL |
-| System Integration | PowerShell | Tailwind CSS |
+| System Integration | Linux | Tailwind CSS |
+| SQL Server | PowerShell | PostgreSQL |
 | Automated Testing | Playwright | SaaS Architecture |
-
-<br>
-
-<div align="center">
-
-> I enjoy understanding the whole system — not only the code that runs inside it.
-
-</div>
 
 ---
 
-<div align="center">
-
 ## `03. SELECTED WORK`
-
-</div>
 
 ### `BLZR-01` — [Blazor WASM LLM Agent](https://github.com/yso8/blazor-wasm-llm-agent)
 
-An experiment around autonomous AI interaction with a **Blazor WebAssembly** application.
+<sub>LOCAL AI / PROOF OF CONCEPT</sub>
 
-The agent observes the current application state, reasons about the requested objective and performs actions using a ReAct-style loop.
-
-`C#` · `Blazor WASM` · `ASP.NET Core` · `Ollama` · `Local LLM`
+An autonomous agent that controls a Blazor application through natural language. It observes the UI and executes actions in a **ReAct loop**, using a local LLM through Ollama without a cloud API.
 
 ---
 
 ### `AUTO-02` — [Casap Visit Slot Watcher](https://github.com/yso8/casap-visit-watcher)
 
-A small automation tool created to solve a real-world problem: monitoring property viewing availability and sending a notification when a slot appears.
+<sub>AUTOMATION / A PRACTICAL PROBLEM</sub>
 
-Built around browser automation and deployed as a continuously running worker.
-
-`Python` · `Playwright` · `GraphQL` · `Docker` · `Telegram`
+A Python worker that watches property viewing availability through GraphQL responses and sends **Telegram alerts** when slots appear. Built for continuous monitoring, with retries, backoff and browser recovery.
 
 ---
 
 ### `SAAS-03` — Crea'X Studio
 
-A personal SaaS product designed and developed from architecture to production.
+<sub>PERSONAL SAAS / IN PRODUCTION</sub>
 
-It covers the full product lifecycle:
-
-`frontend` · `backend` · `authentication` · `testing` · `monitoring` · `infrastructure` · `deployment`
-
-**Stack**
-
-`Next.js` · `TypeScript` · `AdonisJS` · `PostgreSQL` · `Docker` · `Linux`
-
-> Production source code is currently private.
+A personal SaaS I designed and built **from architecture to production**, including authentication, payments and transactional emails. I also handle monitoring, deployment and backups; production source code is currently private.
 
 ---
 
+## `04. MAKERSPACE`
+
+<table>
+<tr>
+<td width="65%" valign="middle">
+<h3>Engineering doesn't stop at the terminal.</h3>
+<p><code>3D PRINTING</code> · <code>ELECTRONICS</code><br /><code>HOME AUTOMATION</code> · <code>HARDWARE &amp; DIY</code></p>
+<p>I like projects where software eventually interacts with something tangible.</p>
+</td>
+<td width="35%" align="center" valign="middle">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXIzNnMxcGhjMnk0NmZtZHZjMzVmZDBodjJxajk2MjRxM2V4b2J6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKxTb0wmhq7W0Te/giphy.gif" width="240" alt="Maker workshop animation" />
+</td>
+</tr>
+</table>
+
+---
+
+## `05. CONNECT`
+
+[LinkedIn](https://www.linkedin.com/in/bgu-is-a-dev/) · [GitHub](https://github.com/yso8) · [Email](mailto:baptisteguillaumepro@gmail.com)
+
 <div align="center">
-
-## `04. CURRENT INTERESTS`
-
+<p><code>CREATE · AUTOMATE · IMPROVE</code></p>
+<p><em>“Créer, c'est vivre deux fois.”</em><br />— Albert Camus</p>
+<p><sub>Software Engineer · Montpellier, France</sub></p>
 </div>
-
-```text
-software engineering
-├── application architecture
-├── legacy modernization
-├── system integration
-├── developer experience
-│   ├── CI/CD
-│   ├── automation
-│   └── testing
-├── SaaS engineering
-└── AI-assisted development
